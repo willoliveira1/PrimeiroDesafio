@@ -16,7 +16,7 @@ public class Main {
         System.out.println(sumOfEvenFibonacciNumbers);
 
         // Problem Three
-        long findLargestPrime = service.largestPrime(600851475143l);
+        long findLargestPrime = service.largestPrime(600851475143L);
         System.out.println(findLargestPrime);
     }
 }
