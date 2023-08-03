@@ -1,4 +1,4 @@
-K0-T0 Primeiros Desafios
+## K0-T0 - Primeiros Desafios
 
 Foram feitos os tres primeiros problemas do site ProjectEuler.net.
 
